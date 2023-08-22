@@ -9,3 +9,4 @@
     git config --global --unset http.proxy
     git config --global --unset https.proxy
     ```
+3. 提交到master分支
